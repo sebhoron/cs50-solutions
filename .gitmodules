@@ -1,0 +1,3 @@
+[submodule "cs50-inheritance"]
+	path = cs50-inheritance
+	url = https://github.com/sebhoron/cs50-inheritance.git
