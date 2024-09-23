@@ -10,3 +10,6 @@
 [submodule "python/tictactoe"]
 	path = python/tictactoe
 	url = https://github.com/sebhoron/cs50-tictactoe.git
+[submodule "python/dna"]
+	path = python/dna
+	url = https://github.com/sebhoron/cs50-dna.git
