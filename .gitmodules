@@ -1,0 +1,12 @@
+[submodule "c++/inheritance"]
+	path = "c++/inheritance"
+	url = https://github.com/sebhoron/cs50-inheritance.git
+[submodule "c++/plurality"]
+	path = "c++/plurality"
+	url = https://github.com/sebhoron/cs50-plurality.git
+[submodule "python/finance"]
+	path = python/finance
+	url = https://github.com/sebhoron/cs50-finance.git
+[submodule "python/tictactoe"]
+	path = python/tictactoe
+	url = https://github.com/sebhoron/cs50-tictactoe.git
