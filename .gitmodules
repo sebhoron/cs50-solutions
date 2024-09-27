@@ -13,3 +13,6 @@
 [submodule "python/dna"]
 	path = python/dna
 	url = https://github.com/sebhoron/cs50-dna.git
+[submodule "c++/recover"]
+	path = c++/recover
+	url = https://github.com/sebhoron/cs50-recover.git
